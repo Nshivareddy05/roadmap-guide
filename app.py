@@ -3,6 +3,7 @@ from streamlit_option_menu import option_menu
 from utils.css_loader import load_css
 from utils.data_loader import load_domains_data, load_roadmaps_data, load_resources_data
 import config
+#use pandas also if needed
 
 from views import home, explorer, compare, advisor, skills, planner, dashboard, career, bot, resources
 import utils.state_manager as state_manager
