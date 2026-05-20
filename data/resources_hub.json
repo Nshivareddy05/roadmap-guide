@@ -1,0 +1,474 @@
+[
+    {
+        "title": "CS50: Introduction to Computer Science",
+        "url": "https://cs50.harvard.edu/",
+        "domain": ["Computer Science", "General"],
+        "level": "Beginner",
+        "category": "Free Courses",
+        "career_path": ["SDE", "Backend Developer"]
+    },
+    {
+        "title": "freeCodeCamp - Learn to Code",
+        "url": "https://www.freecodecamp.org/",
+        "domain": ["Computer Science"],
+        "level": "Beginner",
+        "category": "Platforms",
+        "career_path": ["Frontend Developer", "SDE"]
+    },
+    {
+        "title": "GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/",
+        "domain": ["Computer Science", "Data Science", "General"],
+        "level": "Intermediate",
+        "category": "Preparation Platforms",
+        "career_path": ["SDE", "Data Analyst"]
+    },
+    {
+        "title": "Coursera: Machine Learning Specialization",
+        "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+        "domain": ["AI & Machine Learning", "Data Science"],
+        "level": "Beginner",
+        "category": "Premium Courses",
+        "career_path": ["Machine Learning Engineer", "Data Scientist"]
+    },
+    {
+        "title": "MIT OpenCourseWare",
+        "url": "https://ocw.mit.edu/",
+        "domain": ["Computer Science", "Mechanical Engineering", "Aerospace Engineering", "General"],
+        "level": "Intermediate",
+        "category": "Free Courses",
+        "career_path": ["Researcher", "Engineer"]
+    },
+    {
+        "title": "Kaggle",
+        "url": "https://www.kaggle.com/",
+        "domain": ["AI & Machine Learning", "Data Science"],
+        "level": "Intermediate",
+        "category": "Platforms",
+        "career_path": ["Data Scientist", "Machine Learning Engineer"]
+    },
+    {
+        "title": "Hugging Face Models & Docs",
+        "url": "https://huggingface.co/",
+        "domain": ["AI & Machine Learning"],
+        "level": "Advanced",
+        "category": "Official Docs",
+        "career_path": ["NLP Engineer", "AI Researcher"]
+    },
+    {
+        "title": "LeetCode",
+        "url": "https://leetcode.com/",
+        "domain": ["Computer Science"],
+        "level": "Intermediate",
+        "category": "Preparation Platforms",
+        "career_path": ["SDE", "Backend Developer"]
+    },
+    {
+        "title": "HackerRank",
+        "url": "https://www.hackerrank.com/",
+        "domain": ["Computer Science"],
+        "level": "Beginner",
+        "category": "Preparation Platforms",
+        "career_path": ["SDE"]
+    },
+    {
+        "title": "Codeforces",
+        "url": "https://codeforces.com/",
+        "domain": ["Computer Science"],
+        "level": "Advanced",
+        "category": "Competitive Programming",
+        "career_path": ["SDE"]
+    },
+    {
+        "title": "roadmap.sh",
+        "url": "https://roadmap.sh/",
+        "domain": ["Computer Science", "General"],
+        "level": "Beginner",
+        "category": "Roadmaps",
+        "career_path": ["SDE", "DevOps Engineer"]
+    },
+    {
+        "title": "MDN Web Docs",
+        "url": "https://developer.mozilla.org/",
+        "domain": ["Computer Science"],
+        "level": "Intermediate",
+        "category": "Official Docs",
+        "career_path": ["Frontend Developer", "Full Stack Developer"]
+    },
+    {
+        "title": "AWS Documentation",
+        "url": "https://docs.aws.amazon.com/",
+        "domain": ["Computer Science", "Data Science"],
+        "level": "Intermediate",
+        "category": "Official Docs",
+        "career_path": ["Cloud Architect", "Backend Developer"]
+    },
+    {
+        "title": "TensorFlow Documentation",
+        "url": "https://www.tensorflow.org/learn",
+        "domain": ["AI & Machine Learning"],
+        "level": "Intermediate",
+        "category": "Official Docs",
+        "career_path": ["Machine Learning Engineer"]
+    },
+    {
+        "title": "PyTorch Documentation",
+        "url": "https://pytorch.org/docs/stable/index.html",
+        "domain": ["AI & Machine Learning"],
+        "level": "Intermediate",
+        "category": "Official Docs",
+        "career_path": ["AI Researcher", "Machine Learning Engineer"]
+    },
+    {
+        "title": "NPTEL",
+        "url": "https://nptel.ac.in/",
+        "domain": ["Computer Science", "Mechanical Engineering", "Aerospace Engineering", "Data Science"],
+        "level": "Advanced",
+        "category": "Free Courses",
+        "career_path": ["Researcher", "Engineer"]
+    },
+    {
+        "title": "Gate Smashers",
+        "url": "https://www.youtube.com/c/GateSmashers",
+        "domain": ["Computer Science", "General"],
+        "level": "Beginner",
+        "category": "YouTube",
+        "career_path": ["SDE"]
+    },
+    {
+        "title": "Apna College",
+        "url": "https://www.youtube.com/c/ApnaCollegeOfficial",
+        "domain": ["Computer Science"],
+        "level": "Beginner",
+        "category": "YouTube",
+        "career_path": ["SDE"]
+    },
+    {
+        "title": "Docker Documentation",
+        "url": "https://docs.docker.com/",
+        "domain": ["Computer Science"],
+        "level": "Intermediate",
+        "category": "Official Docs",
+        "career_path": ["DevOps Engineer", "Backend Developer"]
+    },
+    {
+        "title": "Kubernetes Documentation",
+        "url": "https://kubernetes.io/docs/home/",
+        "domain": ["Computer Science"],
+        "level": "Advanced",
+        "category": "Official Docs",
+        "career_path": ["DevOps Engineer", "Cloud Architect"]
+    },
+    {
+        "title": "Linux Foundation Training",
+        "url": "https://training.linuxfoundation.org/",
+        "domain": ["Computer Science"],
+        "level": "Intermediate",
+        "category": "Premium Courses",
+        "career_path": ["Systems Engineer", "DevOps Engineer"]
+    },
+    {
+        "title": "MATLAB & Simulink Tutorials",
+        "url": "https://matlabacademy.mathworks.com/",
+        "domain": ["Mechanical Engineering", "Aerospace Engineering", "AI & Machine Learning"],
+        "level": "Beginner",
+        "category": "Official Docs",
+        "career_path": ["Mechanical Engineer", "Aerospace Engineer"]
+    },
+    {
+        "title": "AutoCAD Learning Resources",
+        "url": "https://www.autodesk.com/certification/learning-pathways/autocad",
+        "domain": ["Mechanical Engineering"],
+        "level": "Beginner",
+        "category": "Official Docs",
+        "career_path": ["Design Engineer"]
+    },
+    {
+        "title": "SolidWorks Tutorials",
+        "url": "https://my.solidworks.com/training",
+        "domain": ["Mechanical Engineering"],
+        "level": "Intermediate",
+        "category": "Official Docs",
+        "career_path": ["Product Design Engineer"]
+    },
+    {
+        "title": "ANSYS Innovation Courses",
+        "url": "https://courses.ansys.com/",
+        "domain": ["Mechanical Engineering", "Aerospace Engineering"],
+        "level": "Advanced",
+        "category": "Free Courses",
+        "career_path": ["Thermal Systems Engineer", "Aerodynamicist"]
+    },
+    {
+        "title": "ROS (Robot Operating System) Docs",
+        "url": "https://docs.ros.org/",
+        "domain": ["Mechanical Engineering", "Computer Science"],
+        "level": "Advanced",
+        "category": "Official Docs",
+        "career_path": ["Robotics Engineer"]
+    },
+    {
+        "title": "JetBrains Academy",
+        "url": "https://www.jetbrains.com/academy/",
+        "domain": ["Computer Science"],
+        "level": "Beginner",
+        "category": "Premium Courses",
+        "career_path": ["SDE"]
+    },
+    {
+        "title": "Full Stack Open",
+        "url": "https://fullstackopen.com/en/",
+        "domain": ["Computer Science"],
+        "level": "Intermediate",
+        "category": "Free Courses",
+        "career_path": ["Full Stack Developer"]
+    },
+    {
+        "title": "The Odin Project",
+        "url": "https://www.theodinproject.com/",
+        "domain": ["Computer Science"],
+        "level": "Beginner",
+        "category": "Free Courses",
+        "career_path": ["Full Stack Developer"]
+    },
+    {
+        "title": "System Design Primer",
+        "url": "https://github.com/donnemartin/system-design-primer",
+        "domain": ["Computer Science"],
+        "level": "Advanced",
+        "category": "GitHub",
+        "career_path": ["Systems Architect", "SDE"]
+    },
+    {
+        "title": "Awesome GitHub Lists",
+        "url": "https://github.com/sindresorhus/awesome",
+        "domain": ["General", "Computer Science", "Data Science", "AI & Machine Learning"],
+        "level": "Intermediate",
+        "category": "GitHub",
+        "career_path": ["SDE", "Researcher"]
+    },
+    {
+        "title": "Papers With Code",
+        "url": "https://paperswithcode.com/",
+        "domain": ["AI & Machine Learning", "Data Science"],
+        "level": "Advanced",
+        "category": "Research",
+        "career_path": ["AI Researcher"]
+    },
+    {
+        "title": "ResearchGate",
+        "url": "https://www.researchgate.net/",
+        "domain": ["General", "Mechanical Engineering", "Aerospace Engineering", "AI & Machine Learning"],
+        "level": "Advanced",
+        "category": "Research",
+        "career_path": ["Researcher", "Academic"]
+    },
+    {
+        "title": "IEEE Xplore",
+        "url": "https://ieeexplore.ieee.org/",
+        "domain": ["General", "Computer Science", "AI & Machine Learning", "Aerospace Engineering"],
+        "level": "Advanced",
+        "category": "Research",
+        "career_path": ["Researcher"]
+    },
+    {
+        "title": "NeetCode",
+        "url": "https://neetcode.io/",
+        "domain": ["Computer Science"],
+        "level": "Intermediate",
+        "category": "Preparation Platforms",
+        "career_path": ["SDE"]
+    },
+    {
+        "title": "Microsoft Learn for Azure",
+        "url": "https://learn.microsoft.com/en-us/training/",
+        "domain": ["Computer Science", "Data Science"],
+        "level": "Intermediate",
+        "category": "Official Docs",
+        "career_path": ["Cloud Solutions Architect"]
+    },
+    {
+        "title": "Google Developers",
+        "url": "https://developers.google.com/",
+        "domain": ["Computer Science"],
+        "level": "Intermediate",
+        "category": "Official Docs",
+        "career_path": ["SDE", "Frontend Developer"]
+    },
+    {
+        "title": "Arduino Documentation",
+        "url": "https://docs.arduino.cc/",
+        "domain": ["Computer Science", "Mechanical Engineering"],
+        "level": "Beginner",
+        "category": "Official Docs",
+        "career_path": ["Robotics Engineer", "IoT Engineer"]
+    },
+    {
+        "title": "Cisco Networking Academy",
+        "url": "https://www.netacad.com/",
+        "domain": ["Computer Science"],
+        "level": "Intermediate",
+        "category": "Premium Courses",
+        "career_path": ["Network Engineer", "Security Analyst"]
+    },
+    {
+        "title": "DevOps Roadmap",
+        "url": "https://roadmap.sh/devops",
+        "domain": ["Computer Science"],
+        "level": "Intermediate",
+        "category": "Roadmaps",
+        "career_path": ["DevOps Engineer"]
+    },
+    {
+        "title": "DataCamp",
+        "url": "https://www.datacamp.com/",
+        "domain": ["Data Science", "AI & Machine Learning"],
+        "level": "Beginner",
+        "category": "Platforms",
+        "career_path": ["Data Analyst", "Data Scientist"]
+    },
+    {
+        "title": "Stanford Online",
+        "url": "https://online.stanford.edu/",
+        "domain": ["General", "Computer Science", "AI & Machine Learning"],
+        "level": "Advanced",
+        "category": "Premium Courses",
+        "career_path": ["Researcher", "Engineer"]
+    },
+    {
+        "title": "W3Schools",
+        "url": "https://www.w3schools.com/",
+        "domain": ["Computer Science"],
+        "level": "Beginner",
+        "category": "Official Docs",
+        "career_path": ["Frontend Developer"]
+    },
+    {
+        "title": "Codecademy",
+        "url": "https://www.codecademy.com/",
+        "domain": ["Computer Science", "Data Science"],
+        "level": "Beginner",
+        "category": "Platforms",
+        "career_path": ["SDE", "Data Analyst"]
+    },
+    {
+        "title": "OpenAI API Documentation",
+        "url": "https://platform.openai.com/docs/",
+        "domain": ["AI & Machine Learning"],
+        "level": "Intermediate",
+        "category": "Official Docs",
+        "career_path": ["AI Engineer", "Prompt Engineer"]
+    },
+    {
+        "title": "StrataScratch",
+        "url": "https://www.stratascratch.com/",
+        "domain": ["Data Science"],
+        "level": "Intermediate",
+        "category": "Preparation Platforms",
+        "career_path": ["Data Scientist", "Data Analyst"]
+    },
+    {
+        "title": "GrabCAD Community",
+        "url": "https://grabcad.com/",
+        "domain": ["Mechanical Engineering", "Aerospace Engineering"],
+        "level": "Intermediate",
+        "category": "Platforms",
+        "career_path": ["Mechanical Engineer", "Aerospace Engineer"]
+    },
+    {
+        "title": "Everyday Astronaut",
+        "url": "https://everydayastronaut.com/",
+        "domain": ["Aerospace Engineering"],
+        "level": "Beginner",
+        "category": "YouTube",
+        "career_path": ["Aerospace Engineer"]
+    },
+    {
+        "title": "NASA Open Source Software",
+        "url": "https://code.nasa.gov/",
+        "domain": ["Aerospace Engineering", "Data Science", "Computer Science"],
+        "level": "Advanced",
+        "category": "GitHub",
+        "career_path": ["Aerospace Engineer", "Researcher"]
+    },
+    {
+        "title": "Fireship",
+        "url": "https://www.youtube.com/c/Fireship",
+        "domain": ["Computer Science"],
+        "level": "Intermediate",
+        "category": "YouTube",
+        "career_path": ["Frontend Developer", "Backend Developer"]
+    },
+    {
+        "title": "edX: Engineering Courses",
+        "url": "https://www.edx.org/course/subject/engineering",
+        "domain": ["General", "Mechanical Engineering", "Aerospace Engineering"],
+        "level": "Intermediate",
+        "category": "Free Courses",
+        "career_path": ["Engineer", "Researcher"]
+    },
+    {
+        "title": "Google Cloud Training",
+        "url": "https://cloud.google.com/training",
+        "domain": ["Computer Science", "Data Science", "AI & Machine Learning"],
+        "level": "Intermediate",
+        "category": "Premium Courses",
+        "career_path": ["Cloud Architect", "Data Engineer"]
+    },
+    {
+        "title": "HackTheBox",
+        "url": "https://www.hackthebox.com/",
+        "domain": ["Computer Science"],
+        "level": "Advanced",
+        "category": "Preparation Platforms",
+        "career_path": ["Security Analyst"]
+    },
+    {
+        "title": "TryHackMe",
+        "url": "https://tryhackme.com/",
+        "domain": ["Computer Science"],
+        "level": "Beginner",
+        "category": "Preparation Platforms",
+        "career_path": ["Security Analyst"]
+    },
+    {
+        "title": "Build Your Own X",
+        "url": "https://github.com/codecrafters-io/build-your-own-x",
+        "domain": ["Computer Science"],
+        "level": "Advanced",
+        "category": "GitHub",
+        "career_path": ["SDE", "Backend Developer"]
+    },
+    {
+        "title": "Neso Academy (GATE CSE)",
+        "url": "https://www.youtube.com/c/nesoacademy",
+        "domain": ["Computer Science"],
+        "level": "Intermediate",
+        "category": "GATE Preparation",
+        "career_path": ["SDE", "Researcher"]
+    },
+    {
+        "title": "Amit Khurana (GATE)",
+        "url": "https://www.youtube.com/c/AmitKhurana",
+        "domain": ["Computer Science"],
+        "level": "Advanced",
+        "category": "GATE Preparation",
+        "career_path": ["SDE", "Researcher"]
+    },
+    {
+        "title": "Ravindrababu Ravula",
+        "url": "https://www.youtube.com/c/ravindrababuravula",
+        "domain": ["Computer Science"],
+        "level": "Advanced",
+        "category": "GATE Preparation",
+        "career_path": ["SDE", "Researcher"]
+    },
+    {
+        "title": "Made Easy (GATE/ESE)",
+        "url": "https://www.youtube.com/c/MADEEASYEducation",
+        "domain": ["Computer Science", "Mechanical Engineering", "Civil Engineering"],
+        "level": "Advanced",
+        "category": "GATE Preparation",
+        "career_path": ["Researcher", "PSU Engineer"]
+    }
+]

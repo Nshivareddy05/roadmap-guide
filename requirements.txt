@@ -1,0 +1,10 @@
+streamlit
+streamlit-option-menu
+streamlit-aggrid
+plotly
+pyvis
+networkx
+pandas
+streamlit-extras
+streamlit-agraph
+google-generativeai

@@ -1,0 +1,162 @@
+{
+    "Computer Science": {
+        "overview": "The foundational science of computing, systems, and logic. Computer Science professionals build scalable architectures, design advanced algorithms, and drive the digital transformation of modern industries.",
+        "skills": ["Advanced Algorithms", "Data Structures", "System Architecture", "Networking Protocols", "Distributed Databases", "Version Control", "Cloud Infrastructure", "Clean Code"],
+        "technologies": ["Python", "Java", "C++", "Go", "JavaScript", "SQL", "Git", "Linux", "Docker", "Kubernetes", "AWS", "GCP", "PostgreSQL", "Redis"],
+        "projects": [
+            "Microservices-Based E-commerce Platform",
+            "Distributed Key-Value Store from Scratch",
+            "Custom OS Kernel Module",
+            "Real-time Scalable Chat Application using WebSockets",
+            "High-Performance API Gateway in Go"
+        ],
+        "career_opportunities": ["Software Development Engineer (SDE)", "Systems Architect", "Backend Developer", "Security Analyst", "Cloud Solutions Architect"],
+        "salary_trends": {
+            "Entry": "$85k - $135k",
+            "Mid": "$135k - $190k",
+            "Senior": "$190k+"
+        },
+        "resources": [
+            {"title": "CS50 - Harvard's Intro to Computer Science", "url": "https://cs50.harvard.edu/", "type": "Course"},
+            {"title": "NeetCode - DSA Mastery", "url": "https://neetcode.io/", "type": "Placement Prep"},
+            {"title": "System Design Primer", "url": "https://github.com/donnemartin/system-design-primer", "type": "GitHub"},
+            {"title": "Fireship Code Tutorials", "url": "https://www.youtube.com/c/Fireship", "type": "YouTube Playlist"},
+            {"title": "AWS Official Documentation", "url": "https://docs.aws.amazon.com/", "type": "Official Docs"},
+            {"title": "Kubernetes Official Docs", "url": "https://kubernetes.io/docs/home/", "type": "Official Docs"},
+            {"title": "Google SWE Internships Guide", "url": "https://buildyourfuture.withgoogle.com/internships", "type": "Internship"},
+            {"title": "GATE CSE Syllabus & Strategy", "url": "https://gate.iitk.ac.in/", "type": "GATE Prep"},
+            {"title": "AWS Certified Solutions Architect", "url": "https://aws.amazon.com/certification/", "type": "Certification"}
+        ],
+        "future_scope": "Explosive growth in Web3, edge computing, serverless architectures, and specialized high-performance computing.",
+        "trending_technologies": ["WebAssembly (Wasm)", "Serverless Architecture", "Micro-frontends", "GraphQL", "gRPC"],
+        "certifications": ["AWS Certified Solutions Architect", "Google Professional Cloud Developer", "Certified Kubernetes Administrator (CKA)"]
+    },
+    "AI & Machine Learning": {
+        "overview": "The cutting-edge frontier of intelligent systems. AI/ML empowers machines to learn from data, reason, and make autonomous decisions, revolutionizing sectors from autonomous driving to hyper-personalized healthcare.",
+        "skills": ["Linear Algebra", "Multivariate Calculus", "Probability & Statistics", "Data Engineering", "Model Architecture", "Neural Networks", "Prompt Engineering"],
+        "technologies": ["Python", "TensorFlow", "PyTorch", "Scikit-Learn", "CUDA", "HuggingFace", "LangChain", "OpenAI APIs"],
+        "projects": [
+            "End-to-End Multimodal Image Classification Pipeline",
+            "Retrieval-Augmented Generation (RAG) Conversational Agent",
+            "Recommendation Engine using Deep Collaborative Filtering",
+            "Predictive Maintenance Model for Industrial IoT",
+            "Generative Adversarial Network (GAN) for Synthetic Data"
+        ],
+        "career_opportunities": ["Machine Learning Engineer", "AI Researcher", "Data Scientist", "NLP Engineer", "Prompt Engineer", "MLOps Engineer"],
+        "salary_trends": {
+            "Entry": "$105k - $145k",
+            "Mid": "$145k - $210k",
+            "Senior": "$210k+"
+        },
+        "resources": [
+            {"title": "DeepLearning.AI Specialization", "url": "https://www.coursera.org/specializations/machine-learning-introduction", "type": "Course"},
+            {"title": "Hugging Face Transformers Docs", "url": "https://huggingface.co/docs", "type": "Official Docs"},
+            {"title": "StatQuest with Josh Starmer", "url": "https://www.youtube.com/c/joshstarmer", "type": "YouTube Playlist"},
+            {"title": "PyTorch Official Tutorials", "url": "https://pytorch.org/tutorials/", "type": "Official Docs"},
+            {"title": "Awesome Machine Learning", "url": "https://github.com/josephmisiti/awesome-machine-learning", "type": "GitHub"},
+            {"title": "Kaggle Competitions (Real-world Projects)", "url": "https://www.kaggle.com/", "type": "Real-world Project"},
+            {"title": "AI Internships via YCombinator", "url": "https://www.ycombinator.com/jobs", "type": "Internship"},
+            {"title": "GATE DA (Data Science & AI)", "url": "https://gate.iitk.ac.in/", "type": "GATE Prep"},
+            {"title": "Machine Learning Engineer Interview Guide", "url": "https://huyenchip.com/ml-interviews-book/", "type": "Placement Prep"}
+        ],
+        "future_scope": "Agentic workflows, Artificial General Intelligence (AGI) research, highly specialized Edge AI, and AI alignment & safety frameworks.",
+        "trending_technologies": ["Large Language Models (LLMs)", "RAG Architectures", "Agentic AI", "LoRA/QLoRA", "Vector Databases"],
+        "certifications": ["TensorFlow Developer Certificate", "AWS Certified Machine Learning - Specialty", "DeepLearning.AI Specialized Certificates"]
+    },
+    "Data Science": {
+        "overview": "The art and science of extracting actionable intelligence from massive datasets. Data Science combines statistical rigor, algorithmic thinking, and deep business acumen to drive critical enterprise decisions.",
+        "skills": ["Statistical Modeling", "Data Wrangling", "Advanced Visualization", "Business Strategy", "A/B Testing", "Distributed Big Data Processing"],
+        "technologies": ["Python", "R", "SQL", "Tableau", "PowerBI", "Apache Spark", "Snowflake", "dbt", "Airflow"],
+        "projects": [
+            "Real-Time Customer Churn Prediction Engine",
+            "Interactive Enterprise Sales Dashboard",
+            "Market Basket Analysis & Recommendation System",
+            "High-Frequency Financial Time-Series Forecasting",
+            "Automated ETL Pipeline for Streaming Data"
+        ],
+        "career_opportunities": ["Data Scientist", "Data Analyst", "Data Engineer", "Business Intelligence (BI) Developer", "Analytics Manager"],
+        "salary_trends": {
+            "Entry": "$90k - $125k",
+            "Mid": "$125k - $170k",
+            "Senior": "$170k+"
+        },
+        "resources": [
+            {"title": "DataCamp Interactive Tracks", "url": "https://www.datacamp.com/", "type": "Course"},
+            {"title": "Ken Jee's Data Science Portfolio Guide", "url": "https://www.youtube.com/c/KenJee1", "type": "YouTube Playlist"},
+            {"title": "Pandas Official Documentation", "url": "https://pandas.pydata.org/docs/", "type": "Official Docs"},
+            {"title": "Awesome Data Science Repo", "url": "https://github.com/bulutyazilim/awesome-datascience", "type": "GitHub"},
+            {"title": "Tableau Public Gallery", "url": "https://public.tableau.com/app/discover", "type": "Industry Tool"},
+            {"title": "Data Science Interview Prep", "url": "https://www.stratascratch.com/", "type": "Placement Prep"},
+            {"title": "Data Engineer Internships (Otta)", "url": "https://otta.com/", "type": "Internship"},
+            {"title": "GATE DA (Data Science & AI)", "url": "https://gate.iitk.ac.in/", "type": "GATE Prep"},
+            {"title": "Google Data Analytics Certificate", "url": "https://grow.google/certificates/data-analytics/", "type": "Certification"}
+        ],
+        "future_scope": "Automated ML (AutoML), robust real-time streaming analytics, and advanced data privacy frameworks such as Federated Learning.",
+        "trending_technologies": ["AutoML", "Federated Learning", "Real-time stream processing", "Data Lakehouses", "Modern Data Stack (MDS)"],
+        "certifications": ["IBM Data Science Professional", "Google Data Analytics Certificate", "Microsoft Certified: Data Scientist Associate", "SnowPro Core Certification"]
+    },
+    "Mechanical Engineering": {
+        "overview": "The cornerstone of physical innovation. Mechanical engineering leverages physics and materials science to design, analyze, and manufacture the complex systems that power our physical world.",
+        "skills": ["Advanced Thermodynamics", "Computational Fluid Dynamics", "CAD/CAM", "Material Science", "Finite Element Analysis (FEA)", "Kinematics", "Mechatronics"],
+        "technologies": ["SolidWorks", "AutoCAD", "ANSYS", "MATLAB", "Python", "Fusion 360", "Simulink", "OpenFOAM"],
+        "projects": [
+            "Custom 3D Printer Design and Rapid Assembly",
+            "Aerodynamic Optimization of an FSAE Vehicle",
+            "Automated Sorting Mechanism using Arduino and Sensors",
+            "HVAC System Energy Optimization for Smart Buildings",
+            "Robotic Arm Kinematics Simulation"
+        ],
+        "career_opportunities": ["Mechanical Engineer", "Product Design Engineer", "Manufacturing Engineer", "Thermal Systems Engineer", "Robotics Engineer"],
+        "salary_trends": {
+            "Entry": "$70k - $95k",
+            "Mid": "$95k - $130k",
+            "Senior": "$130k+"
+        },
+        "resources": [
+            {"title": "Learn SolidWorks Official Training", "url": "https://my.solidworks.com/training", "type": "Course"},
+            {"title": "Real Engineering Case Studies", "url": "https://www.youtube.com/c/RealEngineering", "type": "YouTube Playlist"},
+            {"title": "ANSYS Official Documentation", "url": "https://ansyshelp.ansys.com/", "type": "Official Docs"},
+            {"title": "GrabCAD - 3D Models & Industry Assets", "url": "https://grabcad.com/", "type": "Industry Tool"},
+            {"title": "OpenFOAM GitHub Repository", "url": "https://github.com/OpenFOAM/OpenFOAM-dev", "type": "GitHub"},
+            {"title": "Tesla Engineering Internships", "url": "https://www.tesla.com/careers/internships", "type": "Internship"},
+            {"title": "Core Engineering Placement Prep", "url": "https://www.indiabix.com/mechanical-engineering/questions-and-answers/", "type": "Placement Prep"},
+            {"title": "GATE ME Syllabus & Resources", "url": "https://gate.iitk.ac.in/", "type": "GATE Prep"},
+            {"title": "Certified SolidWorks Professional (CSWP)", "url": "https://www.solidworks.com/certifications", "type": "Certification"}
+        ],
+        "future_scope": "Next-gen additive manufacturing, smart programmable materials, advanced robotics integration, and sustainable green energy systems.",
+        "trending_technologies": ["Digital Twins", "Generative Design", "Industrial IoT (IIoT)", "4D Printing"],
+        "certifications": ["Certified SolidWorks Professional (CSWP)", "Autodesk Certified Professional", "ASME Professional Certifications"]
+    },
+    "Aerospace Engineering": {
+        "overview": "The pinnacle of engineering complexity. Aerospace focuses on pushing the boundaries of human exploration through the design of advanced aircraft, spacecraft, and next-generation propulsion systems.",
+        "skills": ["Aerodynamics", "Propulsion Systems", "Orbital Mechanics", "Structural Analysis", "Flight Dynamics", "Avionics Control Systems"],
+        "technologies": ["CATIA", "Simulink", "CFD Software (Fluent)", "STK (Systems Tool Kit)", "C++", "Python", "Kerbal Space Program (Simulation)"],
+        "projects": [
+            "Model Rocket Trajectory Simulation and Optimization",
+            "Custom Drone Flight Controller Programmed from Scratch",
+            "Wind Tunnel CFD Analysis of Supersonic Airfoils",
+            "Satellite Orbital Decay Modeling",
+            "Electric Propulsion Feasibility Study"
+        ],
+        "career_opportunities": ["Aerospace Engineer", "Flight Systems Engineer", "Propulsion Engineer", "Aerodynamicist", "Avionics Engineer", "Spacecraft Designer"],
+        "salary_trends": {
+            "Entry": "$80k - $105k",
+            "Mid": "$105k - $150k",
+            "Senior": "$150k+"
+        },
+        "resources": [
+            {"title": "MIT OCW Aeronautics & Astronautics", "url": "https://ocw.mit.edu/search/?d=Aeronautics%20and%20Astronautics", "type": "Course"},
+            {"title": "Everyday Astronaut Deep Dives", "url": "https://www.youtube.com/c/EverydayAstronaut", "type": "YouTube Playlist"},
+            {"title": "NASA Technical Reports Server (NTRS)", "url": "https://ntrs.nasa.gov/", "type": "Official Docs"},
+            {"title": "Systems Tool Kit (STK) Resources", "url": "https://www.agi.com/products/stk", "type": "Industry Tool"},
+            {"title": "Awesome Aerospace GitHub", "url": "https://github.com/SpacehuhnTech/awesome-aerospace", "type": "GitHub"},
+            {"title": "SpaceX & Blue Origin Internships", "url": "https://www.spacex.com/careers/", "type": "Internship"},
+            {"title": "Aerospace Interview Questions", "url": "https://www.glassdoor.com/Interview/Aerospace-Engineer-Interview-Questions-SRCH_KO0,18.htm", "type": "Placement Prep"},
+            {"title": "GATE AE (Aerospace) Guide", "url": "https://gate.iitk.ac.in/", "type": "GATE Prep"},
+            {"title": "INCOSE Systems Engineering Professional", "url": "https://www.incose.org/systems-engineering-certification", "type": "Certification"}
+        ],
+        "future_scope": "Rapid commercial space travel, fully reusable launch vehicles, advanced electric aircraft, and sustained hypersonic flight.",
+        "trending_technologies": ["Electric Propulsion", "Hypersonics", "Autonomous Flight Systems", "In-situ Resource Utilization (ISRU)"],
+        "certifications": ["Systems Engineering Professional (INCOSE)", "Private Pilot License (PPL)", "Lean Six Sigma Black Belt"]
+    }
+}

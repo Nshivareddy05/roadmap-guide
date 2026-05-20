@@ -1,0 +1,93 @@
+{
+    "Computer Science": {
+        "nodes": [
+            {"id": "Internet", "label": "Internet Fundamentals", "level": 1, "group": "beginner"},
+            {"id": "OS", "label": "Operating Systems", "level": 1, "group": "beginner"},
+            {"id": "Terminal", "label": "Terminal & Shell", "level": 1, "group": "beginner"},
+            {"id": "Git", "label": "Version Control (Git)", "level": 2, "group": "beginner"},
+            {"id": "Lang", "label": "Programming Language (e.g. Python/Java)", "level": 2, "group": "beginner"},
+            {"id": "DSA", "label": "Data Structures & Algorithms", "level": 3, "group": "intermediate"},
+            {"id": "RDB", "label": "Relational Databases", "level": 3, "group": "intermediate"},
+            {"id": "NoSQL", "label": "NoSQL Databases", "level": 3, "group": "intermediate"},
+            {"id": "Networking", "label": "Computer Networking", "level": 4, "group": "intermediate"},
+            {"id": "API", "label": "APIs (REST/GraphQL)", "level": 4, "group": "intermediate"},
+            {"id": "SysDesign", "label": "System Design", "level": 5, "group": "advanced"},
+            {"id": "Containers", "label": "Docker & Containers", "level": 5, "group": "advanced"},
+            {"id": "Cloud", "label": "Cloud Platforms", "level": 6, "group": "advanced"},
+            {"id": "CI_CD", "label": "CI / CD Pipelines", "level": 6, "group": "advanced"},
+            {"id": "Distributed", "label": "Distributed Systems", "level": 7, "group": "advanced"}
+        ],
+        "edges": [
+            {"source": "Internet", "target": "Terminal"},
+            {"source": "OS", "target": "Terminal"},
+            {"source": "Terminal", "target": "Git"},
+            {"source": "Terminal", "target": "Lang"},
+            {"source": "Lang", "target": "DSA"},
+            {"source": "DSA", "target": "RDB"},
+            {"source": "DSA", "target": "NoSQL"},
+            {"source": "DSA", "target": "Networking"},
+            {"source": "RDB", "target": "API"},
+            {"source": "NoSQL", "target": "API"},
+            {"source": "Networking", "target": "API"},
+            {"source": "API", "target": "SysDesign"},
+            {"source": "API", "target": "Containers"},
+            {"source": "SysDesign", "target": "Cloud"},
+            {"source": "Containers", "target": "Cloud"},
+            {"source": "Git", "target": "CI_CD"},
+            {"source": "Cloud", "target": "CI_CD"},
+            {"source": "Cloud", "target": "Distributed"}
+        ]
+    },
+    "AI & Machine Learning": {
+        "nodes": [
+            {"id": "Math", "label": "Linear Algebra & Calc", "level": 1, "group": "beginner"},
+            {"id": "Stats", "label": "Probability & Statistics", "level": 1, "group": "beginner"},
+            {"id": "Python", "label": "Python Programming", "level": 2, "group": "beginner"},
+            {"id": "DataWrangling", "label": "Pandas & Numpy", "level": 2, "group": "beginner"},
+            {"id": "EDA", "label": "Exploratory Data Analysis", "level": 3, "group": "intermediate"},
+            {"id": "ClassicML", "label": "Classical ML (Scikit)", "level": 3, "group": "intermediate"},
+            {"id": "Eval", "label": "Model Evaluation", "level": 4, "group": "intermediate"},
+            {"id": "DL", "label": "Deep Learning (PyTorch/TF)", "level": 5, "group": "advanced"},
+            {"id": "CV", "label": "Computer Vision", "level": 6, "group": "advanced"},
+            {"id": "NLP", "label": "Natural Language Processing", "level": 6, "group": "advanced"},
+            {"id": "RL", "label": "Reinforcement Learning", "level": 6, "group": "advanced"},
+            {"id": "MLOps", "label": "MLOps & Deployment", "level": 7, "group": "advanced"}
+        ],
+        "edges": [
+            {"source": "Math", "target": "Python"},
+            {"source": "Stats", "target": "Python"},
+            {"source": "Python", "target": "DataWrangling"},
+            {"source": "DataWrangling", "target": "EDA"},
+            {"source": "EDA", "target": "ClassicML"},
+            {"source": "ClassicML", "target": "Eval"},
+            {"source": "Eval", "target": "DL"},
+            {"source": "DL", "target": "CV"},
+            {"source": "DL", "target": "NLP"},
+            {"source": "DL", "target": "RL"},
+            {"source": "CV", "target": "MLOps"},
+            {"source": "NLP", "target": "MLOps"},
+            {"source": "RL", "target": "MLOps"}
+        ]
+    },
+    "Mechanical Engineering": {
+        "nodes": [
+            {"id": "Physics", "label": "Physics & Statics", "level": 1, "group": "beginner"},
+            {"id": "Materials", "label": "Material Science", "level": 1, "group": "beginner"},
+            {"id": "Thermo", "label": "Thermodynamics", "level": 2, "group": "intermediate"},
+            {"id": "Dynamics", "label": "Kinematics & Dynamics", "level": 2, "group": "intermediate"},
+            {"id": "Fluid", "label": "Fluid Mechanics", "level": 3, "group": "intermediate"},
+            {"id": "CAD", "label": "CAD / CAM", "level": 3, "group": "intermediate"},
+            {"id": "FEA", "label": "Finite Element Analysis", "level": 4, "group": "advanced"},
+            {"id": "Manufacturing", "label": "Advanced Manufacturing", "level": 4, "group": "advanced"}
+        ],
+        "edges": [
+            {"source": "Physics", "target": "Thermo"},
+            {"source": "Physics", "target": "Dynamics"},
+            {"source": "Materials", "target": "Manufacturing"},
+            {"source": "Thermo", "target": "Fluid"},
+            {"source": "Dynamics", "target": "CAD"},
+            {"source": "CAD", "target": "FEA"},
+            {"source": "Fluid", "target": "FEA"}
+        ]
+    }
+}
